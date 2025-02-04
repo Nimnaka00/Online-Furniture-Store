@@ -5,7 +5,7 @@ Welcome to the **Online Furniture Store** project! This is a PHP-based web appli
 ## 📸 UI Preview
 
 ### 🏠 Home Page
-![Home Page](https://your-image-url.com/home.png)
+![Home Page](./ss/Home.png)
 
 ### 🔍 Product Page
 ![Product Page](https://your-image-url.com/product.png)
