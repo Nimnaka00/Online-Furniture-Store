@@ -4,20 +4,57 @@ Welcome to the **Online Furniture Store** project! This is a PHP-based web appli
 
 ## 📸 UI Preview
 
+### 🔑 Login Page
+![Login Page](./ss/localhost_Online_books_login.php.png)
+
+### 📝 Registration Page
+![Registration Page](./ss/localhost_Online_books_register.php.png)
+
 ### 🏠 Home Page
 ![Home Page](./ss/Home.png)
 
-### 🔍 Product Page
-![Product Page](https://your-image-url.com/product.png)
+### 🛋️ Product Page
+![Product Page](./ss/product.png)
+
+### ℹ️ About Us Page
+![About Us](./ss/about%20us.png)
+
+### 📞 Contact Us Page
+![Contact Us](./ss/contact%20us.png)
 
 ### 🛒 Cart Page
-![Cart Page](https://your-image-url.com/cart.png)
+![Cart Page](./ss/cart.png)
+
+### 💳 Checkout Page
+![Checkout Page](./ss/checkout.png)
+
+### 🏷️ Place Order Page
+![Place Order Page](./ss/place%20order.png)
+
+### 📦 Order Page
+![Order Page](./ss/after%20order.png)
+
+### 🔍 Search Page
+![Search Page](./ss/search.png)
+
+### ⚙️ Admin Panel
+#### 📊 Dashboard
+![Dashboard](./ss/admin_dashboard.png)
+#### ➕ Add Product
+![Add Product](./ss/Admin%20add%20products.png)
+#### 📦 Manage Orders
+![Manage Orders](./ss/admin_orders.png)
+#### ✉️ Messages
+![Messages](./ss/admin_messeges.png)
+#### 👥 Manage Users
+![Manage Users](./ss/admin_accounts.png)
 
 ## 🌟 Features
 - User authentication (Sign Up / Login / Logout)
 - Browse and search for furniture products
 - Add items to the cart and checkout
-- Admin panel to manage products and orders
+- Place and manage orders
+- Admin panel to manage products, orders, and users
 - Responsive design for a seamless experience on all devices
 
 ## 🛠️ Technologies Used
@@ -57,9 +94,9 @@ Welcome to the **Online Furniture Store** project! This is a PHP-based web appli
 ```
 📁 online-furniture-store
  ┣ 📂 css
+ ┣ 📂 js
  ┣ 📂 images
  ┣ 📂 uploaded_img
- ┣ 📂 js
  ┣ 📜 index.php
  ┣ 📜 config.php
  ┣ 📜 shop_db.sql
