@@ -89,6 +89,11 @@ Welcome to the **Online Furniture Store** project! This is a PHP-based web appli
    ```
    http://localhost/online-furniture-store
    ```
+7. Admin login
+   ```
+   email: admin@gmail.com
+   password: admin01
+   ```
 
 ## 📂 Project Structure
 ```
